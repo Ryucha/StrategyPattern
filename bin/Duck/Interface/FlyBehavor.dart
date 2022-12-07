@@ -1,0 +1,3 @@
+class FlyBehavor {
+  void fly() {}
+}
